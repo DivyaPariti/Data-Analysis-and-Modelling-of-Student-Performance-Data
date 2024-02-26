@@ -1,6 +1,4 @@
-**Project Title:** Student Performance and Characteristics Analysis 🎓
-
-**README:**
+# Student Performance and Characteristics Analysis 🎓
 
 ### Project Overview:
 This project entails a comprehensive analysis of student performance and characteristics using datasets of male and female students. The aim is to gain insights into factors influencing academic outcomes and identify potential patterns or trends that could inform targeted interventions and support strategies. 📊
